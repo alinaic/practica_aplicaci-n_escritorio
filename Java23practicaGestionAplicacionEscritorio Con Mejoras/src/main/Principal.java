@@ -1,0 +1,28 @@
+package main;
+
+import ventanas.VentanaPrincipal;
+
+public class Principal {
+
+	public static void main(String[] args) {
+
+		new VentanaPrincipal();
+
+	}
+
+}
+/*
+ * PRACTICA APLICACION DE ESCRITORIO: SIGUIENDO LOS CONCEPTOS Y EJEMPLOS
+ * MOSTRADOS CREAR UNA APLICACION DE GESTION PARA UN NEGOCIO, EN LA CUAL SE
+ * GESTIONEN INFORMACIONES SOBRE CLIENTES Y PRODUCTOS, EL PRODUCTO SERÁ EL DEL
+ * NEGOCIO A ELEGIR POR EL PROGRAMADOR, DEBERÁ TENER AL MENOS 7 CAMPOS, Y DEBERÁ
+ * ESTAR ALMACENADO EN UNA TABLA DE BASE DE DATOS.
+ * 
+ * LA GESTION DEBERÁ PERMITIR: REGISTRAR, LISTAR, EDITAR Y BORRAR INFORMACIONES.
+ * PERO EN ESTA PRIMERA PARTE SOLO SERÁ NECESARIO REGISTRAR.
+ * 
+ * OPCIONALES: +USAR 3 CAMPOS DE ENTRADA NO ENSEÑADOS EN CLASE PARA EL PRODUCTO
+ * A ELEGIR (p. ej: checkbox, lista desplegable, radio buttons)
+ * 
+ * +intentar realizar un listado de informaciones en los paneles de listado
+ */
